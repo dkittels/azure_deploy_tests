@@ -1,3 +1,3 @@
 <?php
-echo "RELEASE THE KRAKEN!";
+echo "master!";
 ?>
