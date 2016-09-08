@@ -1,3 +1,3 @@
 <?php
-echo "Development Hello World!";
+echo "development!"
 ?>
